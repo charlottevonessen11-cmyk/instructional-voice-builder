@@ -1,5 +1,5 @@
 # instructional-voice-builder
-An AI skill for university faculty who want AI-drafted course materials to sound like them. Works in Claude and OpenAI Codex; both follow the same SKILL.md standard.
+An AI skill for university faculty who want to capture their instuctional tone and approach to draft communications and improve teaching presence in their courses. Works in Claude and OpenAI Codex; both follow the same SKILL.md standard.
 
 **What this skill does**
 
