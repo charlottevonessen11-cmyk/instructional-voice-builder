@@ -34,7 +34,7 @@ Claude desktop app (Cowork): add the instructional-voice-builder folder under Se
 
 Claude Code: copy the instructional-voice-builder folder into .claude/skills/ in your project, or into ~/.claude/skills/ for use across all projects.
 
-OpenAI Codex CLI: copy the instructional-voice-builder folder into .codex/skills/ in your project, or into ~/.codex/skills/ for use across all projects. Trigger with $instructional-voice-builder, or let Codex activate the skill automatically when your request matches.
+OpenAI Codex CLI: copy the instructional-voice-builder folder into .codex/skills/ in your project, or into ~/.codex/skills/ for use across all projects. Trigger with /instructional-voice-builder, or let Codex activate the skill automatically when your request matches.
 
 **Who made this**
 
