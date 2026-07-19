@@ -1,7 +1,7 @@
 # instructional-voice-builder
-An AI skill for university faculty who want AI-drafted course materials to sound like them, not like a chatbot. Works in Claude and OpenAI Codex; both follow the same SKILL.md standard.
+An AI skill for university faculty who want AI-drafted course materials to sound like them. Works in Claude and OpenAI Codex; both follow the same SKILL.md standard.
 
-What this skill does
+**What this skill does**
 
 The skill builds a personal instructional voice profile from two inputs: a short interview about how you communicate with students, and 3 to 5 samples of your teaching-related writing. The output is one file, instructional-voice.md, saved to your project root. Claude then follows this profile when drafting student-facing content.
 
@@ -17,7 +17,7 @@ Discussion replies
 Slide notes
 
 
-How to use
+**How to use**
 
 
 Install the skill (see below).
@@ -26,7 +26,7 @@ Answer the interview questions and share 3 to 5 writing samples. Good samples: a
 The skill writes instructional-voice.md into your project. From then on, drafts follow your voice.
 
 
-Installation
+**Installation**
 
 First download this repository as a ZIP (green Code button, then Download ZIP) and unzip. Then follow the step for your tool:
 
@@ -36,10 +36,10 @@ Claude Code: copy the instructional-voice-builder folder into .claude/skills/ in
 
 OpenAI Codex CLI: copy the instructional-voice-builder folder into .codex/skills/ in your project, or into ~/.codex/skills/ for use across all projects. Trigger with $instructional-voice-builder, or let Codex activate the skill automatically when your request matches.
 
-Who made this
+**Who made this**
 
 Built by Charlotte von Essen, Pedagogy and Digital Development Lead at the Stockholm School of Economics. Questions and suggestions are welcome via GitHub issues.
 
-License
+**License**
 
 MIT. Reuse and adapt freely with attribution.
