@@ -42,4 +42,4 @@ Built by Charlotte von Essen, Pedagogy and Digital Development Lead at the Stock
 
 **License**
 
-MIT. Reuse and adapt freely with attribution.
+Reuse and adapt freely with attribution.
